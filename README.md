@@ -52,4 +52,4 @@ To run the Boosted USA Website locally or deploy it to a web server:
 1. Clone the repository to your local machine:
 
    ```bash
-  git clone https://github.com/your-username/boosted-usa-website.git](https://github.com/ajr4454/Boosted-USA.git)https://github.com/ajr4454/Boosted-USA.git
+  https://github.com/ajr4454/Boosted-USA.git)https://github.com/ajr4454/Boosted-USA.git
